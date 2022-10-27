@@ -1,0 +1,4 @@
+Aletha - Business Card GitHub Link
+The purpose of this Android application is to have a digital business card handy on your phone. 
+When you load the application, it shows a QR Code that has Aletha’s contact information in the form of a VCard. That means, when your client holds their smart phone’s camera on this QR Code, they will get a link on their screen, and by tapping on it, they will be directed to their Contact App, with all the details pre-filled with Aletha’s contact information.
+There is a second screen available on this application, that can be reached by swiping left. This screen has placeholders for full name, phone number, personal email, role and etc., that will make the VCard on the QR Code specialized for our Aletha colleagues; while keeping the address, work phone number, and work email prefilled with Aletha’s contact information.
